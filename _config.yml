@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: wx的个人博客
+subtitle: 'java 、spirng'
+description: 'wx的个人博客，一个努力向前的人'
+keywords:'wx的个人博客、java、spring、springBoot、springCloud'
+author: wx
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://wswx.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
